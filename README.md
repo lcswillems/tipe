@@ -5,4 +5,6 @@ Ce TIPE a été réalisé par [Lucas Willems](http://www.lucaswillems.com) et a 
 Il contient :
 - mon rapport pour les ENS
 - mon diapo
-- le code utilisé pour obtenir les images et représentations graphiques. Celui-ci est accessible sur [mon site internet](http://tipe.lucaswillems.com).
+- le code utilisé pour obtenir les images et représentations graphiques
+
+Pour utiliser le code, vous devez exécuter la commande suivante `python3 main.py` depuis le dossier `src`.
