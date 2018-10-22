@@ -9,6 +9,6 @@ Ce TIPE a été réalisé par [Lucas Willems](http://www.lucaswillems.com) et a 
 Il contient :
 - mon rapport pour les ENS
 - mon diapo
-- le code utilisé pour obtenir les images et représentations graphiques
+- le code (Python 3) utilisé pour obtenir les images et représentations graphiques
 
-Pour utiliser le code, vous devez exécuter la commande `python3 main.py` depuis le dossier `code`.
+Pour utiliser le code, vous devez exécuter la commande `python main.py` depuis le dossier `code`.
